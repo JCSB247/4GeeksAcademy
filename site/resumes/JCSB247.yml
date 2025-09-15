@@ -3,17 +3,19 @@
 #
 
 template: "online-cv"
-skin: "Turquoise"
+
+skin: "turquoise"
+ 
 
 # Personal Information
 basic_info:
 
     # Your full name
-    first_name: Joan 
+    first_name: Joan Carlos
     last_name: Santos
     
     # Define yourself in 4-5 words
-    motto: I like saving the world
+    motto: I like to develop
     
     # Focus
     focus: Killing Bad Boys
@@ -57,14 +59,14 @@ basic_info:
     interests:
       - item: Climbing
 
-      - item: Snowboarding
+      - item: swimming
 
       - item: Cooking
 
 # Your previous education
 education:
     - degree: CFGS DAM
-      university: FOC
+      university: Academy FOC
       # optional
       university_logo: ""
       time: 2021-2023
