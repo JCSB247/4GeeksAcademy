@@ -18,23 +18,21 @@ basic_info:
     motto: I like to develop
     
     # Focus
-    focus: Killing Bad Boys
+    focus: in the world
+
     
     # You have 1 paragraph to make a great impression, summarize your career
     summary: |
-      Summarize your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Aprendiendo, trabajando, equivocandome y trabajando de nuevo para equivocarme otra vez
 
-      Second paragraph if required.
+      Y aprendiendo...
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
     avatar: https://randomuser.me/api/portraits/women/24.jpg
 
     # Contact Information
-    email: a@a.com #optional
+    email: jc7santosba@gmail.com #optional
     phone: 234 2342 342 #optional
     website: asd.com #optional
     linkedin: alandoe #optional
